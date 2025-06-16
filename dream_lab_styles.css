@@ -1,18 +1,18 @@
 /* dream_lab_styles.css */
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lobster&display=swap');
 
 body {
   font-family: 'Inter', sans-serif;
 }
 
-h1, .logo-font {
-  font-family: 'Pacifico', cursive;
+.logo-font {
+  font-family: 'Lobster', cursive;
 }
 
-.bg-dream {
-  background: linear-gradient(to bottom right, #b2dbf7, #ffd6e0, #ffbe76);
+.bg-burst {
+  background: linear-gradient(to bottom right, #b0e0ff, #ffe0f0, #ffcc80);
 }
 
 .neon-shadow {
-  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+  text-shadow: 0 0 20px rgba(255, 255, 255, 0.85);
 }
