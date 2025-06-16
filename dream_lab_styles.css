@@ -1,0 +1,18 @@
+/* dream_lab_styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Inter:wght@400;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, .logo-font {
+  font-family: 'Pacifico', cursive;
+}
+
+.bg-dream {
+  background: linear-gradient(to bottom right, #b2dbf7, #ffd6e0, #ffbe76);
+}
+
+.neon-shadow {
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
